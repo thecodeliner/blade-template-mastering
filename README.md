@@ -55,7 +55,7 @@ This project fulfills an assignment to convert a static HTML page into a dynamic
 - Authentication pages `(auth/login.blade.php, auth/register.blade.php)` handled by LoginController and RegisterController.
 - Contact Us page `(contact.blade.php)` handled by ContactController.
 - Static pages (home, about, categories, profile, blog/index) rendered via route closures.
-- Custom CSS and JS in `public/assets` with Tailwind CSS and FontAwesome loaded via CDN.
+- Custom CSS and JS in `public/assets` folder. and Tailwind CSS and FontAwesome loaded via CDN.
 
 ## Blade Features Used
 
